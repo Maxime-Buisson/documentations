@@ -14,7 +14,7 @@ export default defineConfig({
 	 				label: 'Guides',
 	 				items: [
 	 					// Each item here is one entry in the navigation menu.
-	 					{ label: 'Example Guide', link: 'documentations/guides/example/' },
+	 					{ label: 'Example Guide', link: '/guides/example/' },
 	 				],
 	 			},
 	 			{
@@ -25,6 +25,6 @@ export default defineConfig({
 	 	}),
 	 ],
 
-	site: 'https://maxime2025.github.io',
- 	base: 'documentations',
+	// site: 'https://maxime2025.github.io',
+ 	// base: 'documentations',
 });
