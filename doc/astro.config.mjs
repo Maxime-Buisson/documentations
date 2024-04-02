@@ -25,6 +25,6 @@ export default defineConfig({
 	 	}),
 	 ],
 
-	site: 'https://maxime2025.github.io',
- 	base: 'documentations',
+	// site: 'https://maxime2025.github.io',
+ 	// base: 'documentations',
 });
